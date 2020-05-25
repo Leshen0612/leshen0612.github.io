@@ -10,4 +10,4 @@ redirect_from:
 
 This is Rui Shi's homepage!
 
-Lorem ipsum.
+
