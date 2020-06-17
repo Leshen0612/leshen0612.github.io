@@ -31,6 +31,6 @@ Work experience
 Teaching
 ======
 * 2018.08-2019.06
-  * Teaching Assistant | Stony Brook University 
+  * Teaching Assistant  Stony Brook University 
   *	General Chemistry Lab
 
