@@ -18,15 +18,15 @@ Education
 Work experience
 ======
 * 2015.09-2016.08
-  * Undergraduate Researcher | East China University of Science and Technology
+  * Undergraduate Researcher  East China University of Science and Technology
   *	Research on perovskite solar cell: Optimize device of perovskite solar cell
   *	Research on Dye-sensitized solar cell: Investigate light-soaking effects on device performance
 
 
 * 2016.08-Present
-  * Guest Researcher | Brookhaven National Lab 
-  *	Research on Cu/Fe2O3 catalyst for CO hydrogenation | Adviser: Michael G. White
-  *	Research on ZrO2/Cu(111) model catalyst for CO2 hydrogenation | Adviser: Jose Rodriguez
+  * Guest Researcher  Brookhaven National Lab 
+  *	Research on Cu/Fe2O3 catalyst for CO hydrogenation  Adviser: Michael G. White
+  *	Research on ZrO2/Cu(111) model catalyst for CO2 hydrogenation  Adviser: Jose Rodriguez
 
 Teaching
 ======
