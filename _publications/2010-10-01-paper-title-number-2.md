@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Growth and structural studies of In/Au(111) alloys and InOx/Au(111) inverse oxide/metal model catalysts"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/Growth and structural studies of In/Au(111) alloys and InOx/Au(111) inverse oxide/metal model catalysts
+excerpt: 'Indium oxide has received attention as an exciting candidate for catalyzing the CO2 hydrogenation to methanol due to its high selectivity (>80%). Compared to the extent of research on the activity of indium oxide-based powder catalysts, very little is known about the phenomena associated with the formation of surface alloys involving indium or the growth mechanism for indium oxide nanoparticles. In this report, scanning tunneling microscopy and X-ray photoelectron spectroscopy (XPS) were employed to elucidate the growth mode, structure, and chemical state of In/Au(111) alloys and InOx/Au(111) inverse model catalysts. '
+date: 2020-02-03
+venue: 'The Journal of Chemical Physics'
+paperurl: 'https://aip.scitation.org/doi/abs/10.1063/1.5139237'
+citation: 'Kang, Jindong, Mausumi Mahapatra, Ning Rui, Ivan Orozco, Rui Shi, Sanjaya D. Senanayake, and José A. Rodriguez. "Growth and structural studies of In/Au (111) alloys and InOx/Au (111) inverse oxide/metal model catalysts." The Journal of Chemical Physics 152.5 (2020): 054702.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Indium oxide has received attention as an exciting candidate for catalyzing the CO2 hydrogenation to methanol due to its high selectivity (>80%). Compared to the extent of research on the activity of indium oxide-based powder catalysts, very little is known about the phenomena associated with the formation of surface alloys involving indium or the growth mechanism for indium oxide nanoparticles. In this report, scanning tunneling microscopy and X-ray photoelectron spectroscopy (XPS) were employed to elucidate the growth mode, structure, and chemical state of In/Au(111) alloys and InOx/Au(111) inverse model catalysts. 
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Read paper here](https://aip.scitation.org/doi/abs/10.1063/1.5139237)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Kang, Jindong, Mausumi Mahapatra, Ning Rui, Ivan Orozco, Rui Shi, Sanjaya D. Senanayake, and José A. Rodriguez. "Growth and structural studies of In/Au (111) alloys and InOx/Au (111) inverse oxide/metal model catalysts." The Journal of Chemical Physics 152.5 (2020): 054702.
