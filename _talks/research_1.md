@@ -1,6 +1,6 @@
 ---
 title: "Modified Fischer-Tropsch Catalysts for Ethanol Synthesis: Cu supported on Fe2O3"
-permalink: /research/research_1
+permalink: /talks/research_1
 time: 2017-01 ~ 2018-07
 
 ---
