@@ -4,4 +4,5 @@ permalink: /research/research_1
 time: Jan 2018 – Jul 2018
 ---
 •	Work independently as a master student in the synthesis and characterization of alkali modified Cu/Fe2O3 catalysts for ethanol synthesis from syngas
+
 •	Utilize GC for reactivity test and TEM, XRD, EXAFS for catalyst characterization
