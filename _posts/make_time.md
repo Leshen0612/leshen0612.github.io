@@ -1,7 +1,7 @@
 ---
 title: 'Book Notes: Make Time'
-date: 2012-08-14
-permalink: /posts/make_time/
+date: 2020-11-25
+permalink: /posts/make_time.md/
 tags:
   - Book Notes
   - Time Management
